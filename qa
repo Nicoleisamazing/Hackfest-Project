@@ -1,0 +1,4 @@
+supplies = input("What supplies do you need? (Healthcare, food, water, building supplies, etc.): ")
+transport = input("What would be the best way to transport your supplies? (Ship, train, helicopter, car, etc.): ")
+
+print(supplies, transport)
